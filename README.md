@@ -7,6 +7,9 @@ library with the official card text and published errata.
 **Open it:** https://shocco.github.io/optcg-judge-trainer/ — a single page that runs
 in the browser. Progress is saved only in your browser's local storage.
 
+**Change log:** https://shocco.github.io/optcg-judge-trainer/changelog.html lists what changed in
+each public version. The current version is shown in the page footer.
+
 ## Sources
 
 - Card stats and effect text: the official English card list
